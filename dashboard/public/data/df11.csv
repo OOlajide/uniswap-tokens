@@ -1,0 +1,4 @@
+CATEGORY,TOKEN_COUNT,PERCENTAGE
+Long-lived: more than 30 days,77680,47.33
+Medium-lived: 7 to 30 days,12890,7.85
+Short-lived: less than 7 days,73551,44.82

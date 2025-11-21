@@ -1,0 +1,22 @@
+BLOCKCHAIN,CATEGORY,TOKEN_COUNT,PERCENTAGE
+arbitrum,Long-lived: more than 30 days,1572,46.98
+arbitrum,Medium-lived: 7 to 30 days,289,8.64
+arbitrum,Short-lived: less than 7 days,1485,44.38
+avalanche,Long-lived: more than 30 days,162,57.86
+avalanche,Medium-lived: 7 to 30 days,24,8.57
+avalanche,Short-lived: less than 7 days,94,33.57
+base,Long-lived: more than 30 days,36155,68.08
+base,Medium-lived: 7 to 30 days,4957,9.33
+base,Short-lived: less than 7 days,11992,22.58
+bsc,Long-lived: more than 30 days,1090,67.08
+bsc,Medium-lived: 7 to 30 days,160,9.85
+bsc,Short-lived: less than 7 days,375,23.08
+ethereum,Long-lived: more than 30 days,47923,38.67
+ethereum,Medium-lived: 7 to 30 days,9449,7.62
+ethereum,Short-lived: less than 7 days,66564,53.71
+optimism,Long-lived: more than 30 days,404,61.96
+optimism,Medium-lived: 7 to 30 days,40,6.14
+optimism,Short-lived: less than 7 days,208,31.9
+polygon,Long-lived: more than 30 days,3469,57.31
+polygon,Medium-lived: 7 to 30 days,591,9.76
+polygon,Short-lived: less than 7 days,1993,32.93
